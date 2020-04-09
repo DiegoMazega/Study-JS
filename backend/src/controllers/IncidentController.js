@@ -25,7 +25,7 @@ module.exports = {
                 'ongs.email',
                 'ongs.whatsapp',
                 'ongs.city',
-                'ongs.city'
+                'ongs.uf'
             ]);
 
         return response.json(incidents);
